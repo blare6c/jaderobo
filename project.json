@@ -1,0 +1,10 @@
+{
+    "name": "jaderobo",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "jaderobo.xml",
+    "author": "blare6c",
+    "minimum_firmware_version": 42
+}
