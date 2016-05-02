@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="1" inline="true" x="108" y="90">
+  <block type="controls_repeat" id="1" inline="true" x="109" y="79">
     <value name="TIMES">
       <block type="math_number" id="2">
         <field name="NUM">5</field>
